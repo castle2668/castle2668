@@ -23,7 +23,7 @@ I create blog posts mainly about Vue.js and JavaScript. You can see a full list 
 
 😻 Loving cats & まめゴマ
 
-📫 How to reach me: **castle2668@gmail.com**
+📫 How to reach me: castle2668@gmail.com
 
 ## Get in touch
 
