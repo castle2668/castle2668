@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋,
+
+I create blog posts mainly about Vue.js and JavaScript. I have a passion for learning and sharing my knowledge with others. You can see a full list of what I am up to on [Sealman's first homepage](https://sealman234.github.io/). If you found any problems in something I have created, please feel free to leave a comment, or contact me on Twitter.
 
 <!--
 **Sealman234/Sealman234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📌 Pinned
 -->
+
+
+## Get in touch
+
+- Twitter: https://twitter.com/Sealman234
+- Blog: https://sealman234.github.io/
