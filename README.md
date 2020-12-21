@@ -1,4 +1,4 @@
-Hi there 👋! I am Sealman, a front-end developer from Taiwan. I have a passion for learning new things and sharing my knowledge with others. Recently interested in Vue 3.
+Hi there 👋! I am Sealman, a front-end developer from Taiwan. I have a passion for learning new things and sharing my knowledge with others. Recently interested in React and Vue 3.
 
 I create blog posts mainly about JavaScript and Vue.js. You can see a full list of what I am up to on [Sealman's first homepage](https://sealman234.github.io/). If you found any problems in something I have created, please feel free to leave a comment, or contact me on Twitter. 😉
 
