@@ -25,7 +25,7 @@ I create blog posts mainly about JavaScript and Vue.js. You can see a full list 
 
 * Has experience for HTML, CSS, SCSS, Bootstrap, JavaScript, Vue.js, and Quasar Framework
 * UI Interaction / Browser related technology
-* Mostly using `Vue`, has an interest in `React`
+* Mostly using `Vue 2`, has an interest in `Vue 3` and `Vite`
 * Lovely tech stack: Vue CLI + Vue Router + Vuex
 * Want to get more familiar about open data and data visualization
 
