@@ -1,4 +1,5 @@
-[![Sealman Stats](https://github-readme-stats.vercel.app/api?username=sealman234)](https://sealman234.github.io/)
+[![Sealman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sealman234&theme=vue-dark&show_icons=true&count_private=true)](https://sealman234.github.io/)
+
 
 ## About Me
 
