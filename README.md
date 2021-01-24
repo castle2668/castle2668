@@ -1,4 +1,4 @@
-![Sealman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sealman234&theme=vue-dark&show_icons=true&count_private=true)
+![Sealman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sealman234&count_private=true&show_icons=true&theme=vue-dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sealman234&layout=compact&theme=vue-dark)
 
 
