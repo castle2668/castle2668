@@ -29,7 +29,7 @@ I create blog posts mainly about JavaScript and Vue.js. You can see a full list 
 * Mostly using `Vue 2`, has an interest in `Vue 3` and `Vite`
 * Want to get more familiar about open data and data visualization
 
-### Backend
+### Backend / Others
 
 * Have learned C, PHP, MySQL, Python, Java courses, but forgot mostly.
 * Have built an Autonomous Lawn Mower using Pixhawk, ArduRover, and Mission Planner
