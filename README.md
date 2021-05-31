@@ -18,7 +18,7 @@ I create blog posts mainly about JavaScript and Vue.js. You can see a full list 
 
 * [MapleStory Shop](https://sealman234.github.io/MapleStoryShopV4/): Show my LOVE for MapleStory over the years by building this website featuring the iconic items!
 * [Mask Map](https://sealman234.github.io/MaskMapV4/): A website that show us where can we buy face masks in Taiwan
-* [Succulent!](https://sealman234.github.io/Succulent/): A clone project for [Sweetaste](https://www.youtube.com/watch?v=qWrp4CrObyE) and convert it into succulent theme
+* [Succulent](https://sealman234.github.io/Succulent/): A clone project for [Sweetaste](https://www.youtube.com/watch?v=qWrp4CrObyE) and convert it into succulent theme
 
 ## Interest (Programming)
 
