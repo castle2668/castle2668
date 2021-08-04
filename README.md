@@ -12,7 +12,7 @@ I create blog posts mainly about JavaScript and Vue.js. You can see a full list 
 * **Role:** Front-end Developer 👨‍💻
 * **Location:** Taipei, Taiwan 🇹🇼
 * **Twitter:** [@Sealman234](https://twitter.com/Sealman234)
-* **Blog:** https://sealman234.github.io/
+<!-- * **Blog:** https://sealman234.github.io/ -->
 
 ## Projects
 
