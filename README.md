@@ -17,7 +17,7 @@
 ### Frontend
 
 * JavaScript
-* Mostly using `Vue`, recently interested in `Nuxt`
+* Mostly using `Vue`, recently interested in `React`
 * Want to get more familiar about open data and data visualization
 
 ### Backend / Others
