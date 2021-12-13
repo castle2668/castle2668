@@ -6,7 +6,7 @@
 * **Name:** Sealman
 * **Role:** Frontend Developer
 * **Location:** Taipei, Taiwan
-* **Twitter:** [@Sealman234](https://twitter.com/Sealman234)
+* **Twitter:** [@Sealman234](https://twitter.com/sealman234)
 * **Blog:** https://sealman234.github.io/
 
 ## Projects
@@ -18,7 +18,7 @@
 ### Frontend
 
 * JavaScript
-* Mostly using `Vue`, recently interested in `React`
+* Fascinated by its progressive design, I use and major in `Vue.js`. Now I investigate `React` in my spare time.
 * Want to get more familiar about open data and data visualization
 
 ### Backend / Others
