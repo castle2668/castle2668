@@ -6,7 +6,6 @@
 * **Name:** Sealman
 * **Role:** Frontend Developer
 * **Location:** Taipei, Taiwan
-* **Twitter:** [@castle2668](https://twitter.com/castle2668)
 * **Blog:** https://sealman234.github.io/
 
 ## Projects
