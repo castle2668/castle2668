@@ -6,7 +6,7 @@
 * **Name:** Sealman
 * **Role:** Frontend Developer
 * **Location:** Taipei, Taiwan
-* **Blog:** https://sealman234.github.io/
+* **Blog:** https://blog.sealman.tw/
 
 ## Projects
 
@@ -27,7 +27,7 @@
   
 ## Others
 
-📝 Regularly write articles on [https://sealman234.github.io/](https://sealman234.github.io/)
+📝 Regularly write articles on [blog.sealman.tw](https://blog.sealman.tw/)
 
 🎮 Anime, movie & video game enthusiast
 
