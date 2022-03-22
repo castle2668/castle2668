@@ -4,7 +4,7 @@
 ## About Me
 
 * **Name:** Sealman
-* **Role:** Frontend Developer
+* **Role:** Frontend Engineer
 * **Location:** Taipei, Taiwan
 * **Blog:** https://blog.sealman.tw/
 
