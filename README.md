@@ -3,10 +3,10 @@
 
 ## About Me
 
-* **Name:** Sealman
-* **Role:** Front End Developer
-* **Location:** Taipei, Taiwan
-* **Blog:** https://blog.sealman.tw/
+* **Name:** Sean Huang aka Sealman
+* **Role:** Frontend Engineer
+* **Location:** Tainan, Taiwan
+* **Blog:** https://www.sealman.tw
 
 ## Projects
 
