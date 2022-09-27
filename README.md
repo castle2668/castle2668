@@ -17,7 +17,7 @@
 ### Frontend
 
 * JavaScript
-* Fascinated by its progressive design, I use and major in `Vue.js`. Now I investigate `React` in my spare time.
+* Now I use and major in `React`.
 * Want to get more familiar about open data and data visualization
 
 ### Backend / Others
