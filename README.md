@@ -1,3 +1,6 @@
+![Sealman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sealman234&count_private=true&show_icons=true&theme=react&hide_title=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sealman234&layout=compact&theme=react)
+
 ## About Me
 
 * **Name:** Sealman
