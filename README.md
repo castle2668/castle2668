@@ -34,4 +34,4 @@
 
 😍 Loving まめゴマ, Travel, Games, Music
 
-📫 How to reach me: castle2668@gmail.com
+📫 How to reach me: sealman.dev@gmail.com
