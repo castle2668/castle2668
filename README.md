@@ -5,7 +5,7 @@
 * **Name:** Sealman
 * **Role:** Frontend Engineer
 * **Location:** Taiwan
-* **Blog:** https://www.sealman.tw
+* **Blog:** https://www.sealman.dev
 
 ## Projects
 
