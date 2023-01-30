@@ -27,7 +27,7 @@
   
 ## Others
 
-📝 Regularly write articles on [sealman.tw](https://www.sealman.tw/)
+📝 Regularly write articles on [sealman.dev](https://www.sealman.dev/)
 
 🎮 Anime, movie & video game enthusiast
 
