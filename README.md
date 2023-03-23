@@ -5,11 +5,11 @@
 * **Name:** Sealman
 * **Role:** Frontend Engineer
 * **Location:** Taiwan
-* **Blog:** https://www.sealman.dev
+* **Blog:** [Sealman's first homepage](https://www.sealman.dev)
 
 ## Projects
 
-* [MapleStory Shop](https://sealman234.github.io/MapleStoryShopV4/): Show my LOVE for MapleStory over the years by building this website featuring the iconic items!
+* [MapleStory Shop](https://sealman234.github.io/maplestory-shop/): Show my LOVE for MapleStory over the years by building this website featuring the iconic items!
 
 ## Interest
 
