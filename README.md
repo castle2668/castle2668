@@ -17,6 +17,8 @@
 
 * JavaScript
 * Now I use and major in `React`.
+* Favorite tech stack: Next + Context + styled-components
+* Favorite development features: EditorConfig + Prettier + ESLint + simple-import-sort + Jest + React Testing Library
 * Want to get more familiar about open data and data visualization
 
 ### Backend / Others
