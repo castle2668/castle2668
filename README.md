@@ -1,5 +1,7 @@
 ![Sealman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sealman234&count_private=true&show_icons=true&theme=react&hide_title=true)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6441fc03e27257737493969c?variant=dark&roadmaps=frontend%2Cdevops%2Cdocker%2Ckubernetes)](https://roadmap.sh)
+
 ## About Me
 
 * **Name:** Sealman
