@@ -13,7 +13,7 @@
 
 ## Interest
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6441fc03e27257737493969c?variant=dark&roadmaps=frontend%2Cdevops%2Cdocker%2Ckubernetes)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6441fc03e27257737493969c?variant=dark&roadmaps=frontend%2Creact)](https://roadmap.sh)
 
 ### Frontend
 
