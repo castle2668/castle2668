@@ -2,7 +2,7 @@
 
 ## About Me
 
-* **Name:** Sealman
+* **Name:** Yunghsiang
 * **Role:** Frontend Engineer
 * **Location:** Taiwan
 * **Blog:** [Sealman's first homepage](https://www.sealman.dev)
