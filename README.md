@@ -32,7 +32,7 @@
   
 ## Others
 
-📝 Regularly write articles on [blog.eishou.dev](https://blog.eishou.dev/)
-🎮 Anime, movie & video game enthusiast
-😍 Loving まめゴマ, Travel, Games, Music
-📫 How to reach me: eisohu.dev@gmail.com
+* 📝 Regularly write articles on [blog.eishou.dev](https://blog.eishou.dev/)
+* 🎮 Anime, movie & video game enthusiast
+* 😍 Loving まめゴマ, Travel, Games, Music
+* 📫 How to reach me: eisohu.dev@gmail.com
