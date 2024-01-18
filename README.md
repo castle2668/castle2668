@@ -36,4 +36,4 @@
 
 😍 Loving まめゴマ, Travel, Games, Music
 
-📫 How to reach me: sealman.dev@gmail.com
+📫 How to reach me: eisohu.dev@gmail.com
