@@ -1,4 +1,4 @@
-![Shou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koueishou)
+![Shou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koueishou&theme=react)
 
 ## About Me
 
