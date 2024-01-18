@@ -2,10 +2,10 @@
 
 ## About Me
 
-* **Name:** Sean
+* **Name:** Shou
 * **Role:** Frontend Engineer
 * **Location:** Taiwan
-* **Blog:** [Sealman's first homepage](https://www.sealman.dev)
+* **Blog:** [Shou's first homepage](https://blog.eishou.dev)
 
 ## Projects
 
