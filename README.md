@@ -1,8 +1,8 @@
-![Sealman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunghsianghuang&count_private=true&show_icons=true&theme=react&hide_title=true)
+![Shou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koueishou&count_private=true&show_icons=true&theme=react&hide_title=true)
 
 ## About Me
 
-* **Name:** Yunghsiang
+* **Name:** Sean
 * **Role:** Frontend Engineer
 * **Location:** Taiwan
 * **Blog:** [Sealman's first homepage](https://www.sealman.dev)
@@ -13,7 +13,7 @@
 
 ## Interest
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6441fc03e27257737493969c?variant=dark&roadmaps=frontend%2Creact)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65a893d50c54812283f90a21?variant=dark)](https://roadmap.sh)
 
 ### Frontend
 
