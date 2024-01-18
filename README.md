@@ -30,7 +30,7 @@
   
 ## Others
 
-📝 Regularly write articles on [sealman.dev](https://www.sealman.dev/)
+📝 Regularly write articles on [blog.eishou.dev](https://blog.eishou.dev/)
 
 🎮 Anime, movie & video game enthusiast
 
