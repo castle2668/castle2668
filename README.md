@@ -5,7 +5,7 @@
 * **Name:** Yonshan Huang
 * **Role:** Frontend Engineer
 * **Location:** Tainan, Taiwan
-* **Blog:** [Yonshan's first homepage](https://blog.yonshan.dev)
+* **Blog:** [Yonshan's blog](https://blog.yonshan.dev)
 
 ## Projects
 
@@ -20,7 +20,7 @@
 * JavaScript
 * UI interaction and browser related technologies
 * SEO and web page performance optimization related technologies
-* Now I mainly use `React`, and I also have development experience in `Vue`
+* Now I mainly use `React`, and I also have development experience in `Vue 2`
 * Favorite tech stack: Next 14 + Context API + Ant Design 5 + styled-components
 * Favorite development configuration: EditorConfig + Prettier + ESLint + simple-import-sort + Jest + React Testing Library
 * Want to get more familiar about open data and data visualization
