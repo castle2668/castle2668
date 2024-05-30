@@ -32,6 +32,8 @@
   
 ## Others
 
+<a href="https://app.daily.dev/castle2668"><img src="https://api.daily.dev/devcards/v2/TrVltc7Lw1k0cKMUr5CyH.png?r=267&type=default" width="356" alt="大貓's Dev Card"/></a>
+
 * 📝 Regularly write articles on [大貓的第一個家](https://www.damao.dev)
 * 🎮 Anime, movie & video game enthusiast
 * 😍 Loving まめゴマ, Travel, Games, Music
