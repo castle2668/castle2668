@@ -1,11 +1,11 @@
-![Yonshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=castle2668&theme=react)
+![Damao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=castle2668&theme=react)
 
 ## About Me
 
-* **Name:** Yonshan Huang
+* **Name:** 大貓 (Damao)
 * **Role:** Frontend Engineer
 * **Location:** Tainan, Taiwan
-* **Blog:** [大貓的第一個家](https://www.damao.dev)
+* **Blog:** [大貓的第一個家 (Damao's fisrt homepage)](https://www.damao.dev)
 
 ## Projects
 
@@ -17,11 +17,11 @@
 
 ### Frontend
 
-* JavaScript
+* JavaScript (TypeScript)
 * UI interaction and browser related technologies
 * SEO and web page performance optimization related technologies
-* Now I mainly use `React`, and I also have development experience in `Vue 2`
-* Favorite tech stack: Next 14 + Context API + Ant Design 5 + styled-components
+* Now I mainly use `React` and `Next`, and I also have development experience in `Vue 2`
+* Favorite tech stack: Next 14 + Context API + Tailwind CSS
 * Favorite development configuration: EditorConfig + Prettier + ESLint + simple-import-sort + Jest + React Testing Library
 * Want to get more familiar about open data and data visualization
 
@@ -32,9 +32,7 @@
   
 ## Others
 
-<a href="https://app.daily.dev/castle2668"><img src="https://api.daily.dev/devcards/v2/TrVltc7Lw1k0cKMUr5CyH.png?r=267&type=default" width="356" alt="大貓's Dev Card"/></a>
-
-* 📝 Regularly write articles on [大貓的第一個家](https://www.damao.dev)
-* 🎮 Anime, movie & video game enthusiast
-* 😍 Loving まめゴマ, Travel, Games, Music
+* 📝 Regularly write articles on [大貓的第一個家 (Damao's fisrt homepage)](https://www.damao.dev)
+* 🎮 Anime, movie, and video game enthusiast
+* 😍 Loving まめゴマ, ちいかわ, Travel, Games, Music
 * 📫 How to reach me: castle2668@gmail.com
