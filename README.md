@@ -2,7 +2,7 @@
 
 ## About Me
 
-* **Name:** 大貓 (Damao)
+* **Name:** Sean Huang
 * **Role:** Frontend Engineer
 * **Location:** Tainan, Taiwan
 * **Blog:** [大貓的第一個家 (Damao's fisrt homepage)](https://www.damao.dev)
