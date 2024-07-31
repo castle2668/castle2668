@@ -1,11 +1,11 @@
-![Damao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=castle2668&theme=react)
+![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=castle2668&theme=react)
 
 ## About Me
 
 * **Name:** Sean Huang
 * **Role:** Frontend Engineer
 * **Location:** Tainan, Taiwan
-* **Blog:** [大貓的第一個家 (Damao's fisrt homepage)](https://www.damao.dev)
+* **Blog:** [Sean's Blog](https://www.seanhuang.dev)
 
 ## Projects
 
@@ -32,7 +32,7 @@
   
 ## Others
 
-* 📝 Regularly write articles on [大貓的第一個家 (Damao's fisrt homepage)](https://www.damao.dev)
+* 📝 Regularly write articles on [Sean's Blog](https://www.seanhuang.dev)
 * 🎮 Anime, movie, and video game enthusiast
 * 😍 Loving まめゴマ, ちいかわ, Travel, Games, Music
 * 📫 How to reach me: castle2668@gmail.com
