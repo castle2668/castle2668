@@ -21,9 +21,9 @@
 * JavaScript (TypeScript)
 * UI interaction and browser related technologies
 * SEO and web page performance optimization related technologies
-* Now I mainly use `React`, and I also have development experience in `Vue 2`
-* Favorite tech stack: `Astro` + `Tailwind CSS` + `React` + `Vite`
-* Favorite development configuration: `EditorConfig` + `Prettier` + `ESLint` + `simple-import-sort` + `Jest` + `React Testing Library`
+* Now I mainly use React, and I also have development experience in Vue 2
+* Favorite tech stack: Astro + Tailwind CSS + React + Vite
+* Favorite development configuration: EditorConfig + Prettier + ESLint + simple-import-sort + Jest + React Testing Library
 * Want to get more familiar about open data and data visualization
 
 ### Backend / Others
