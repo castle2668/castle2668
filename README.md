@@ -10,6 +10,7 @@
 ## Projects
 
 * [MapleStory Shop](https://castle2668.github.io/maplestory-shop/): Show my LOVE for MapleStory over the years by building this website featuring the iconic items!
+* [Sean's Blog](https://www.seanhuang.dev): Blog built with Astro, Tailwind CSS, and React.
 
 ## Interest in Programming
 
@@ -20,9 +21,9 @@
 * JavaScript (TypeScript)
 * UI interaction and browser related technologies
 * SEO and web page performance optimization related technologies
-* Now I mainly use `React` and `Next`, and I also have development experience in `Vue 2`
-* Favorite tech stack: Next 14 + Context API + Tailwind CSS
-* Favorite development configuration: EditorConfig + Prettier + ESLint + simple-import-sort + Jest + React Testing Library
+* Now I mainly use `React`, and I also have development experience in `Vue 2`
+* Favorite tech stack: `Astro` + `Tailwind CSS` + `React` + `Vite`
+* Favorite development configuration: `EditorConfig` + `Prettier` + `ESLint` + `simple-import-sort` + `Jest` + `React Testing Library`
 * Want to get more familiar about open data and data visualization
 
 ### Backend / Others
