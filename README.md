@@ -10,7 +10,7 @@
 ## Projects
 
 * [MapleStory Shop](https://castle2668.github.io/maplestory-shop/): Show my LOVE for MapleStory over the years by building this website featuring the iconic items!
-* [Sean's Blog](https://www.seanhuang.dev): Blog built with Astro, Tailwind CSS, and React.
+* [Sean's Blog](https://www.seanhuang.dev): Blog built with Astro + Tailwind CSS + TypeScript + ESLint. Bringing articles, stories, and tutorials for web enthusiasts.
 
 ## Interest in Programming
 
