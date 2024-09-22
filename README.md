@@ -11,6 +11,7 @@
 
 * [MapleStory Shop](https://castle2668.github.io/maplestory-shop/): Show my LOVE for MapleStory over the years by building this website featuring iconic items!
 * [Sean's Blog](https://www.seanhuang.dev): Blog built with Astro + Tailwind CSS + TypeScript + ESLint. Bringing articles, stories, and tutorials for web enthusiasts.
+* [Mask Map]([castle2668.github.io/mask-map](https://castle2668.github.io/mask-map/)): A website that show us where can we buy face masks in Taiwan.
 
 ## Interest in Programming
 
