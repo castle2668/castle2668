@@ -24,7 +24,7 @@
 * UI interaction and browser-related technologies
 * SEO and web page performance optimization-related technologies
 * Now I mainly use React, and I also have development experience in Vue 2
-* Favorite tech stack: React (SPA) / Astro (SSG) / Remix (SSR) + Tailwind CSS + Vite
+* Favorite tech stack: React (SPA) / Astro (SSG) / Next (SSR) + Tailwind CSS + Vite
 * Favorite development configuration: TypeScript + EditorConfig + Prettier + ESLint + simple-import-sort + Vitest / Jest
 * Want to get more familiar with open data and data visualization
 
