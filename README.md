@@ -9,7 +9,7 @@
 
 ## Projects
 
-SSR & SSG:
+SSG / SSR:
 
 * [Sean's Blog](https://github.com/castle2668/astro-blog): Blog built with Astro + Tailwind CSS + TypeScript + ESLint + Markdown. Bringing articles, stories, and tutorials for web enthusiasts.
 * [Next.js App Router Blog](https://github.com/castle2668/next-app-router-blog): SSG blog built with Next.js App Router + Tailwind CSS + Shadcn UI + Markdown.
