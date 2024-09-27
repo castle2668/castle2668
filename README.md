@@ -9,7 +9,12 @@
 
 ## Projects
 
-* [MapleStory Shop](https://castle2668.github.io/maplestory-shop/): 🍁 Show my LOVE for MapleStory over the years by building this website featuring iconic items!
+* [Sean's Blog](https://github.com/castle2668/astro-blog): Blog built with Astro + Tailwind CSS + TypeScript + ESLint + Markdown. Bringing articles, stories, and tutorials for web enthusiasts.
+* [MapleStory Shop](https://github.com/castle2668/maplestory-shop): 🍁 Show my LOVE for MapleStory over the years by building this website featuring iconic items!
+* [Next.js App Router Blog](https://github.com/castle2668/next-app-router-blog): SSG blog built with Next.js App Router + Tailwind CSS + Shadcn UI + Markdown.
+* [Next.js Pages Router Blog](https://github.com/castle2668/next-pages-router-blog): SSG blog built with Next.js Pages Router + CSS Modules + Markdown.
+* [Gatsby Blog](https://github.com/castle2668/gatsby-blog): SSG blog built with Gatsby.js + styled-components + GraphQL + Markdown.
+* [Studio Ghibli](https://github.com/castle2668/studio-ghibli): Studio Ghibli Fan Project built with React.
 * [Google Keep Clone](https://react-notes-app-66bfb.web.app/notes): A Simple Google Keep Clone App. Built with React + styled-components + React Router 6 + Redux + Redux Thunk + Redux Toolkit.
 * [Mask Map](https://castle2668.github.io/mask-map/): A website that shows us where can we buy face masks in Taiwan. Built with Vue 2 + Bootstrap + OpenStreetMap + Leaflet.
 
