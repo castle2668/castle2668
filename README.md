@@ -19,8 +19,8 @@ SSG / SSR:
 SPA:
 
 * [MapleStory Shop](https://github.com/castle2668/maplestory-shop): 🍁 Show my LOVE for MapleStory over the years by building this website featuring iconic items!
-* [Studio Ghibli](https://github.com/castle2668/studio-ghibli): Studio Ghibli Fan Project built with React.
 * [Google Keep Clone](https://github.com/castle2668/react-notes-app): A Simple Google Keep Clone App. Built with React + styled-components + React Router 6 + Redux + Redux Thunk + Redux Toolkit.
+* [Studio Ghibli](https://github.com/castle2668/studio-ghibli): Studio Ghibli Fan Project built with React.
 * [Mask Map](https://github.com/castle2668/mask-map): A website that shows us where can we buy face masks in Taiwan. Built with Vue 2 + Bootstrap + OpenStreetMap + Leaflet.
 
 ## Interest in Programming
