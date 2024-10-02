@@ -11,7 +11,7 @@
 
 SPA:
 
-* [(WIP) MapleStory Match Cards MiniGame](https://github.com/castle2668/maplestory-match-cards-minigame): 🃏 MapleStory Match Cards Mini Game. Built with Vite + React + Shadcn UI + Zustand.
+* [MapleStory Match Cards MiniGame](https://github.com/castle2668/maplestory-match-cards-minigame): 🃏 MapleStory Match Cards Mini Game. Built with Vite + React + Shadcn UI + Zustand.
 * [Google Keep Clone](https://github.com/castle2668/react-notes-app): A Simple Google Keep Clone App. Built with React + styled-components + React Router 6 + Redux + Redux Thunk + Redux Toolkit.
 * [Studio Ghibli](https://github.com/castle2668/studio-ghibli): Studio Ghibli Fan Project built with React.
 * [MapleStory Shop](https://github.com/castle2668/maplestory-shop): 🍁 Show my LOVE for MapleStory over the years by building this website featuring iconic items!
