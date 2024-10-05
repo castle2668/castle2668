@@ -4,7 +4,7 @@
 
 * **Name:** Sean Huang
 * **Role:** Frontend Engineer
-* **Location:** Tainan, Taiwan
+* **Location:** Taiwan
 * **Blog:** [Sean's Blog](https://www.seanhuang.dev)
 
 ## Side Projects
