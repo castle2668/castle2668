@@ -46,5 +46,5 @@ SSG / SSR:
 
 * 📝 Regularly write articles on [Sean's Blog](https://www.seanhuang.dev)
 * 🎮 Anime, movie, and video game enthusiast
-* 😍 Loving まめゴマ, ちいかわ, Travel, Games, Music
+* 😍 Loving まめゴマ, ちいかわ, Travel, Games
 * 📫 How to reach me: castle2668@gmail.com
