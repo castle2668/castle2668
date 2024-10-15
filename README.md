@@ -2,7 +2,7 @@
 
 ## About Me
 
-* **Name:** Huang, Yung-Hsiang (Sean)
+* **Name:** Sean (Huang, Yung-Hsiang)
 * **Role:** Frontend Engineer
 * **Location:** Taiwan
 * **Blog:** [Sean's Blog](https://www.seanhuang.dev)
