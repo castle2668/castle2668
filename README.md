@@ -11,7 +11,7 @@
 
 SPA:
 
-* [🔥MapleStory Match Cards Mini Game(WIP)](https://github.com/castle2668/maplestory-match-cards-minigame): 🃏 MapleStory Match Cards Mini Game. Built with Vite + React + Shadcn UI + Zustand + React Query. Tested with Vitest & React Testing Library.
+* [🔥 MapleStory Match Cards Mini Game (WIP)](https://github.com/castle2668/maplestory-match-cards-minigame): 🃏 MapleStory Match Cards Mini Game. Built with Vite + React + Shadcn UI + Zustand + React Query. Tested with Vitest & React Testing Library.
 * [MapleStory Shop](https://github.com/castle2668/maplestory-shop): 🍁 Show my LOVE for MapleStory over the years by building this website featuring iconic items!
 * [Mask Map](https://github.com/castle2668/mask-map): A website that shows us where to buy face masks in Taiwan, originally developed during the COVID-19 pandemic to support public health needs. Built with Vue 2 + Bootstrap + OpenStreetMap + Leaflet.
 * [Studio Ghibli](https://github.com/castle2668/studio-ghibli): Studio Ghibli Fan Project built with React.
