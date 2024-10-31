@@ -2,7 +2,7 @@
 
 ## About Me
 
-* **Name:** Sean (Huang, Yung-Hsiang)
+* **Name:** Sean Huang (Huang, Yung-Hsiang)
 * **Role:** Frontend Engineer
 * **Location:** Taiwan
 * **Blog:** [Sean's Blog](https://www.seanhuang.dev)
@@ -32,8 +32,8 @@ SSG / SSR:
 * JavaScript (TypeScript)
 * UI interaction and browser-related technologies
 * SEO and web page performance optimization-related technologies
-* Now I mainly use `React`, and I also have development experience in Vue 2
-* Favorite tech stack: `Vite` + React (SPA) / Astro (SSG) / Next.js (SSR) + `Tailwind CSS` + `Shadcn UI` + `TypeScript` + `Zustand` + `React Query` + `Vitest` / Jest + `Playwright`
+* Now I mainly use React, and I also have development experience in Vue 2
+* Favorite tech stack: Vite + React (SPA) / Astro (SSG) / Next.js (SSR) + Tailwind CSS + Shadcn UI + TypeScript + Zustand + React Query + Vitest / Jest + Cypress / Playwright
 * Favorite development configuration: EditorConfig + Prettier + ESLint + simple-import-sort
 * Want to get more familiar with open data and data visualization
 
