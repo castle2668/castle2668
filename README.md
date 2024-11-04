@@ -1,11 +1,21 @@
-![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=castle2668&theme=react)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ## About Me
 
-* **Name:** Sean Huang (Huang, Yung-Hsiang)
+* **Name:** 黃永翔 (Sean Huang)
 * **Role:** Frontend Engineer
 * **Location:** Taiwan
 * **Blog:** [Sean's Blog](https://www.seanhuang.dev)
+* **Email:** castle2668@gmail.com
+* **LinkedIn:** [Sean Huang](https://www.linkedin.com/in/sean-huang-tw/)
+* **CV:** [seanhuang.dev/resume](https://www.seanhuang.dev/resume)
 
 ## Side Projects
 
@@ -25,8 +35,6 @@ SSG / SSR:
 
 ## Interest in Programming
 
-[![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
-
 ### Frontend
 
 * JavaScript (TypeScript)
@@ -41,10 +49,8 @@ SSG / SSR:
 
 * Have learned C, PHP, MySQL, Python, and Java in college
 * Have built an Autonomous Lawn Mower using Pixhawk, ArduRover, and Mission Planner
-  
-## Others
 
-* 📝 Regularly write articles on [Sean's Blog](https://www.seanhuang.dev)
-* 🎮 Anime, movie, and video game enthusiast
-* 😍 Loving まめゴマ, ちいかわ, Travel, Games
-* 📫 How to reach me: castle2668@gmail.com
+![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=castle2668&theme=react)
+[![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/castle2668?theme=unicorn&font=Paprika&ext=activity)](https://leetcode.com/castle2668)
