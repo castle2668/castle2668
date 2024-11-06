@@ -26,7 +26,7 @@ SPA:
 * [Mask Map](https://github.com/castle2668/mask-map): A website that shows us where to buy face masks in Taiwan, originally developed during the COVID-19 pandemic to support public health needs. Built with Vue 2 + Bootstrap + OpenStreetMap + Leaflet.
 * [Studio Ghibli](https://github.com/castle2668/studio-ghibli): Studio Ghibli Fan Project built with React.
 
-SSG / SSR:
+SSG:
 
 * [Sean's Blog](https://github.com/castle2668/astro-blog): Blog built with Astro + Tailwind CSS + TypeScript + ESLint + Markdown. Bringing articles, stories, and tutorials for web enthusiasts.
 * [Next.js App Router Blog](https://github.com/castle2668/next-app-router-blog): SSG blog built with Next.js App Router + Tailwind CSS + Shadcn UI + Markdown.
