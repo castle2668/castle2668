@@ -7,6 +7,8 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
+![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=castle2668&theme=react)
+
 ## About Me
 
 * **Name:** 黃永翔 (Sean Huang)
@@ -37,6 +39,8 @@ SSG:
 
 ### Frontend
 
+[![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
+
 * JavaScript (TypeScript)
 * UI interaction and browser-related technologies
 * SEO and web page performance optimization-related technologies
@@ -49,9 +53,5 @@ SSG:
 
 * Have learned C, PHP, MySQL, Python, and Java in college
 * Have built an Autonomous Lawn Mower using Pixhawk, ArduRover, and Mission Planner
-
-![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=castle2668&theme=react)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/castle2668?theme=unicorn&font=Paprika&ext=activity&hide=ranking)](https://leetcode.com/castle2668)
