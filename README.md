@@ -39,8 +39,6 @@ SSG:
 
 ### Frontend
 
-[![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
-
 * JavaScript (TypeScript)
 * UI interaction and browser-related technologies
 * SEO and web page performance optimization-related technologies
@@ -48,6 +46,8 @@ SSG:
 * Favorite tech stack: Vite + React (SPA) / Astro (SSG) / Next.js (SSR) + Tailwind CSS + Shadcn UI + TypeScript + Zustand + React Query + Vitest + React Testing Librery + Playwright
 * Favorite development configuration: EditorConfig + Prettier + ESLint
 * Want to get more familiar with open data and data visualization
+
+[![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
 
 ### Backend / Others
 
