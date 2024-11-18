@@ -30,6 +30,14 @@ SSG:
 
 ### Frontend
 
+* JavaScript (TypeScript)
+* UI interaction and browser-related technologies
+* SEO and web page performance optimization-related technologies
+* Now I mainly use React, and I also have development experience in Vue 2
+* Favorite tech stack: Vite + React (SPA) / Astro (SSG) / Next.js (SSR) + Tailwind CSS + Shadcn UI + TypeScript + Zustand + React Query + Vitest + React Testing Librery + Playwright
+* Favorite development configuration: EditorConfig + Prettier + ESLint
+* Want to get more familiar with open data and data visualization
+
 ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -38,14 +46,6 @@ SSG:
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-* JavaScript (TypeScript)
-* UI interaction and browser-related technologies
-* SEO and web page performance optimization-related technologies
-* Now I mainly use React, and I also have development experience in Vue 2
-* Favorite tech stack: Vite + React (SPA) / Astro (SSG) / Next.js (SSR) + Tailwind CSS + Shadcn UI + TypeScript + Zustand + React Query + Vitest + React Testing Librery + Playwright
-* Favorite development configuration: EditorConfig + Prettier + ESLint
-* Want to get more familiar with open data and data visualization
 
 [![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
 
