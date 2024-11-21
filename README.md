@@ -4,7 +4,7 @@
 
 * **Name:** 黃永翔 (Sean Huang)
 * **Role:** Frontend Engineer
-* **Location:** Tainan, Taiwan
+* **Location:** Taiwan
 * **Blog:** [Sean's Blog](https://www.seanhuang.dev)
 * **Email:** castle2668@gmail.com
 * **LinkedIn:** [Sean Huang](https://www.linkedin.com/in/sean-huang-tw/)
