@@ -17,9 +17,9 @@
 
 ## Interest in Programming
 
-### Frontend
-
 [![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
+
+### Frontend
 
 * JavaScript (TypeScript)
 * UI interaction and browser-related technologies
