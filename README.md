@@ -19,6 +19,8 @@
 
 ### Frontend
 
+[![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
+
 * JavaScript (TypeScript)
 * UI interaction and browser-related technologies
 * SEO and web page performance optimization-related technologies
@@ -35,8 +37,6 @@
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/65fbda486deb533d6e0244c9?variant=dark)](https://roadmap.sh)
 
 ### Backend / Others
 
