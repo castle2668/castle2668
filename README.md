@@ -29,11 +29,6 @@
 * Favorite development configuration: EditorConfig + Prettier + ESLint
 * Want to get more familiar with open data and data visualization
 
-### Backend / Others
-
-* Have learned C, PHP, MySQL, Python, and Java in college
-* Have built an Autonomous Lawn Mower using Pixhawk, ArduRover, and Mission Planner
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -53,5 +48,10 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+### Backend / Others
+
+* Have learned C, PHP, MySQL, Python, and Java in college
+* Have built an Autonomous Lawn Mower using Pixhawk, ArduRover, and Mission Planner
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/castle2668?theme=unicorn&font=Paprika&ext=activity&hide=ranking)](https://leetcode.com/castle2668)
