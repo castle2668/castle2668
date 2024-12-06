@@ -14,8 +14,8 @@
 
 ## Side Projects
 
-* [MapleStory Match Cards Mini Game](https://github.com/castle2668/maplestory-match-cards-minigame): Built with Vite + React + Shadcn UI + Zustand + React Query. Tested with Vitest + React Testing Library + Cypress.
-* [Sean's Blog](https://github.com/castle2668/astro-blog): Blog built with Astro + Tailwind CSS + TypeScript + ESLint + Markdown. Bringing articles, stories, and tutorials for web enthusiasts.
+* [MapleStory Match Cards Mini Game](https://github.com/castle2668/maplestory-match-cards-minigame): Built with Vite, React, Shadcn UI, Zustand, and React Query. Tested with Vitest, React Testing Library, and Cypress.
+* [Sean's Blog](https://github.com/castle2668/astro-blog): Blog built with Astro, Tailwind CSS, TypeScript, ESLint, and Markdown. Bringing articles, stories, and tutorials for web enthusiasts.
 
 ## Interest in Programming
 
@@ -25,7 +25,7 @@
 * UI interaction and browser-related technologies
 * SEO and web page performance optimization-related technologies
 * Now I mainly use React, and I also have development experience in Vue 2
-* Favorite tech stack: Vite + React (SPA) / Astro (SSG) / Next.js (SSR) + Tailwind CSS + Shadcn UI + TypeScript + Zustand + React Query + Vitest + React Testing Librery + Cypress / Playwright
+* Favorite tech stack: Next.js 15 + Material UI v6 + Tailwind CSS + Redux Toolkit + Vitest + React Testing Librery + Playwright
 * Favorite development configuration: EditorConfig + Prettier + ESLint
 * Want to get more familiar with open data and data visualization
 
