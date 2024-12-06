@@ -26,7 +26,7 @@
 * SEO and web page performance optimization-related technologies
 * Now I mainly use React, and I also have development experience in Vue 2
 * Favorite tech stack: Next.js 15 + Material UI v6 + Tailwind CSS + Redux Toolkit + Vitest + React Testing Librery + Playwright
-* Favorite development configuration: EditorConfig + Prettier + ESLint
+* Favorite development configuration: EditorConfig + Prettier + ESLint + Husky + lint-staged + commitlint
 * Want to get more familiar with open data and data visualization
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
