@@ -15,7 +15,6 @@
 ## Side Projects
 
 * [MapleStory Match Cards Mini Game](https://github.com/castle2668/maplestory-match-cards-minigame): Built with Vite, React, Shadcn UI, Zustand, and React Query. Tested with Vitest, React Testing Library, and Cypress.
-* [Sean's Blog](https://github.com/castle2668/astro-blog): Blog built with Astro, Tailwind CSS, TypeScript, ESLint, and Markdown. Bringing articles, stories, and tutorials for web enthusiasts.
 
 ## Interest in Programming
 
