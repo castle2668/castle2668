@@ -21,7 +21,7 @@
 * UI interaction and browser-related technologies
 * SEO and web page performance optimization-related technologies
 * Now I mainly use `React`, and I also have development experience in Vue 2
-* Favorite tech stack: `Next.js 15` + `Material UI v6` + `Tailwind CSS` + `Redux Toolkit` + `Vitest` + `React Testing Librery` + `Playwright`
+* Favorite tech stack: `Next.js 15` + `Material UI`+ `Tailwind CSS` + `Zustand` + `React Query` + `Vitest` + `React Testing Librery` + `Playwright`
 * Favorite development configuration: `EditorConfig` + `Prettier` + `ESLint` + `Husky` + `lint-staged` + `commitlint`
 * Want to get more familiar with open data and data visualization
 
