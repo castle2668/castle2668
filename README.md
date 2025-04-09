@@ -11,6 +11,7 @@
 ## Side Projects
 
 * [MapleStory Match Cards Mini Game](https://github.com/castle2668/maplestory-match-cards-minigame): Built with Vite, React, Shadcn UI, Zustand, and React Query. Tested with Vitest, React Testing Library, and Cypress.
+* [MapleStory Shop](https://github.com/castle2668/maplestory-shop): 🍁 Show my LOVE for MapleStory over the years by building this website featuring iconic items!
 
 ## Interest in Programming
 
