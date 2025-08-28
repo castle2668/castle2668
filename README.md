@@ -3,10 +3,8 @@
 * **Name:** 黃永翔 (Sean Huang)
 * **Role:** Frontend Engineer
 * **Location:** Taiwan
-* **Blog:** [Sean's Blog](https://www.seanhuang.dev)
 * **Email:** castle2668@gmail.com
-* **LinkedIn:** [Sean Huang](https://www.linkedin.com/in/sean-huang-tw/)
-* **CV:** [seanhuang.dev/resume](https://www.seanhuang.dev/resume)
+* **LinkedIn:** [Sean Huang](https://www.linkedin.com/in/huang-yung-hsiang/)
 
 ## Side Projects
 
@@ -29,4 +27,3 @@
 
 * Have learned C, PHP, MySQL, Python, and Java in college
 * Have built an Autonomous Lawn Mower using Pixhawk, ArduRover, and Mission Planner
-
