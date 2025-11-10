@@ -1,6 +1,8 @@
 # Sean Huang (黃永翔) – Frontend Engineer
 
-📍 Taiwan | ✉ castle2668@gmail.com | [LinkedIn](https://www.linkedin.com/in/huang-yung-hsiang/)
+📍 Taiwan
+✉️ castle2668@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/huang-yung-hsiang/)
 
 ---
 
