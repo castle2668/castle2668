@@ -1,4 +1,4 @@
-# Sean Huang (黃永翔) – Frontend Engineer
+# Sean Huang (黃永翔) - Frontend Engineer
 
 📍 Tainan, Taiwan | [castle2668@gmail.com](mailto:castle2668@gmail.com) | [LinkedIn](https://www.linkedin.com/in/huang-yung-hsiang/)
 
@@ -14,16 +14,16 @@ Coming soon...
 
 ### Frontend
 
-- JavaScript / TypeScript, Vue 2, React, Next.js 15
-- Bootstrap, Element UI, Tailwind CSS, Material UI
-- Zustand, React Query, Redux, RTK, RTK Query
-- Jest, Vitest, React Testing Library, Playwright  
+- `TypeScript`, `React`, `Next.js 15`
+- `Material UI`
+- `Redux`, `RTK`, `RTK Query`
+- `Vitest`, `React Testing Library`, `Playwright`  
 - SEO, Performance Optimization, Browser-related technologies  
-- Preferred workflow: EditorConfig + Prettier + ESLint + Husky + lint-staged + commitlint  
+- Preferred workflow: `EditorConfig` + `Prettier` + `ESLint` + `Husky` + `lint-staged` + `commitlint`  
 
 ### Backend / Others
 
-- Basic experience with C, PHP, MySQL, Python, Java, Node.js, and Nest.js
+- Basic experience with `C`, `PHP`, `MySQL`, `Python`, `Java`, `Node.js`, and `Nest.js`
 - Built an autonomous lawn mower using Pixhawk, ArduRover, and Mission Planner  
 
 ### Learning Goals
