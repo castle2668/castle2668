@@ -2,19 +2,13 @@
 
 📍 Tainan, Taiwan | [castle2668@gmail.com](mailto:castle2668@gmail.com) | [LinkedIn](https://www.linkedin.com/in/huang-yung-hsiang/)
 
----
-
 ## About Me
 
 Frontend engineer passionate about modern web development, UI interactions, and web performance optimization. Experienced in building React-based applications with clean architecture, thorough testing, and maintainable code.
 
----
-
 ## Side Projects
 
 Coming soon...
-
----
 
 ## Technical Skills
 
