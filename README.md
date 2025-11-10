@@ -5,32 +5,32 @@
 ---
 
 ## About Me
-Frontend engineer passionate about **modern web development, UI interactions, and web performance optimization**. Experienced in building **React-based applications** with clean architecture, thorough testing, and maintainable code.
+
+Frontend engineer passionate about modern web development, UI interactions, and web performance optimization. Experienced in building React-based applications with clean architecture, thorough testing, and maintainable code.
 
 ---
 
 ## Side Projects
-- **[MapleStory Match Cards Mini Game](https://github.com/castle2668/maplestory-match-cards-minigame)**  
-  Built with Vite, React, Shadcn UI, Zustand, and React Query. Fully tested with Vitest, React Testing Library, and Cypress. Showcases interactive UI and state management skills.
 
-- **[MapleStory Shop](https://github.com/castle2668/maplestory-shop)**  
-  A fan project featuring iconic MapleStory items. Highlights UI design, API integration, and frontend architecture.
+TBD.
 
 ---
 
 ## Technical Skills
 
-**Frontend:**  
-- JavaScript / TypeScript, React (Next.js 15), Vue 2  
-- Material UI, Tailwind CSS  
-- Zustand, React Query  
-- Vitest, React Testing Library, Playwright  
-- SEO & performance optimization, browser-related technologies  
+### Frontend
+
+- JavaScript / TypeScript, Vue 2, React, Next.js 15
+- Bootstrap, Element UI, Tailwind CSS, Material UI
+- Zustand, React Query, Redux, RTK, RTK Query
+- Jest, Vitest, React Testing Library, Playwright  
+- SEO, Performance Optimization, Browser-related technologies  
 - Preferred workflow: EditorConfig + Prettier + ESLint + Husky + lint-staged + commitlint  
 
-**Backend / Others:**  
-- Basic experience with C, PHP, MySQL, Python, Java  
+### Backend / Others
+
+- Basic experience with C, PHP, MySQL, Python, Java, Node.js, and Nest.js
 - Built an autonomous lawn mower using Pixhawk, ArduRover, and Mission Planner  
 
-**Learning Goals:**  
-- Explore **open data** and **data visualization** for interactive web experiences
+### Learning Goals
+- Explore open data and data visualization for interactive web experiences
