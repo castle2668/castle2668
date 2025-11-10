@@ -1,4 +1,4 @@
-# Sean Huang (黃永翔) - Frontend Engineer
+# Sean Huang - Frontend Engineer
 
 📍 Tainan, Taiwan | [castle2668@gmail.com](mailto:castle2668@gmail.com) | [LinkedIn](https://www.linkedin.com/in/huang-yung-hsiang/)
 
